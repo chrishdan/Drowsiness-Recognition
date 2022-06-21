@@ -4,6 +4,8 @@ School project in collaboration with Olav Adamsrød
 
 This project is a drowsiness recognition software which could be used to alert drivers when they are tired/drowsy. 
 
+When mouth is wide open and/or eyes are closed (for a set time amount), the user is alerted by sound (and text on camera screen).
+
 We utilized this facial landmark to find and track the mouth and eye features
 
 ![image](https://user-images.githubusercontent.com/77734703/174798481-fe7dad9d-5794-4410-b00d-42fa3dde1cf9.png)
