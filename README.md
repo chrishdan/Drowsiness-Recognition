@@ -1,6 +1,6 @@
 # Drowsiness-Recognition
 
-School project in collaboration with Olav Adamsrød
+School project in collaboration with Olav Adamsrød (original working repository: https://github.com/olav-adamsroed/Drowsiness-Recognition)
 
 This project is a drowsiness recognition software which could be used to alert drivers when they are tired/drowsy. 
 
